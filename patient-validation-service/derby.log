@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Aug 20 04:51:54 CDT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017b-62f9-5a08-00000fff7740 
+on database directory memory:C:\Work\MicroSvc\patient-validation-service\patient-validation-service\9363df12-fbd0-4ff0-aac9-3909ced7baa4 with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/163132/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_261-b12
+user.dir=C:\Work\MicroSvc\patient-validation-service\patient-validation-service
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
